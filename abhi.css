@@ -35,14 +35,14 @@ span{
     width: 4em;
     height: 4em;
     top: 50%;
-    left: 50%;
+    left: 76%;
     transform: translate(-50%,-50%);
     background-color: #eee;
     color: #333;
     font-size: 2em;
     z-index: 1;
     cursor: pointer;
-    /* border-radius: 30%; */
+    
 }
   
 .sm_list{
