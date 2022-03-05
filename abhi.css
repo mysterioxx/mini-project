@@ -130,8 +130,8 @@ span{
   
 #share_button:checked ~ .sm_list a:nth-child(6):hover{
     color: black;
-    background-image: linear-gradient(90deg,white,grey);
-}
+    background-color: #fff;
+    
   
 span:visited{
     background-color: #b0b5e2;
